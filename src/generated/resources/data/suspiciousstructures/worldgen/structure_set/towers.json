@@ -1,0 +1,18 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 94909895,
+    "separation": 8,
+    "spacing": 20
+  },
+  "structures": [
+    {
+      "structure": "suspiciousstructures:towers/plains",
+      "weight": 1
+    },
+    {
+      "structure": "suspiciousstructures:towers/birch",
+      "weight": 1
+    }
+  ]
+}

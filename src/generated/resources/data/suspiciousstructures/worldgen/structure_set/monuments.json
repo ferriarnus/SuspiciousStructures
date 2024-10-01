@@ -1,0 +1,18 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 184964518,
+    "separation": 8,
+    "spacing": 20
+  },
+  "structures": [
+    {
+      "structure": "suspiciousstructures:monuments/plains",
+      "weight": 1
+    },
+    {
+      "structure": "suspiciousstructures:monuments/desert",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 2984649,
+    "separation": 8,
+    "spacing": 20
+  },
+  "structures": [
+    {
+      "structure": "suspiciousstructures:huts/plains",
+      "weight": 1
+    },
+    {
+      "structure": "suspiciousstructures:huts/desert",
+      "weight": 1
+    },
+    {
+      "structure": "suspiciousstructures:huts/savanna",
+      "weight": 1
+    },
+    {
+      "structure": "suspiciousstructures:huts/taiga",
+      "weight": 1
+    }
+  ]
+}
